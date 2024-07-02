@@ -1,4 +1,4 @@
 # Demo01
 my first git repository.
 <br>
-Author- Ankur Shrivastav
+Author- Ankur Shrivastav (tinku)
